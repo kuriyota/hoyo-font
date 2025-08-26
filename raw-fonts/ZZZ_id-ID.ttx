@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.59">
+
+  <name>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      Copyright(c)2019:Shanghai Mengyan Culture and Creative Co.,Ltd(inpin font)
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      ZZZ_id-ID
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      inpin hongmengti:Version 1.00
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      ZZZ_id-ID Regular
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 1.00;May 18, 2023;FontCreator 12.0.0.2563 64-bit
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      ZZZ_id-ID-Regular
+    </namerecord>
+    <namerecord nameID="7" platformID="3" platEncID="1" langID="0x409">
+      Trademark of inpin font
+    </namerecord>
+    <namerecord nameID="8" platformID="3" platEncID="1" langID="0x409">
+      上海萌言文化创意有限公司
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x409">
+      印品字库(www.inpin.cn)
+    </namerecord>
+    <namerecord nameID="11" platformID="3" platEncID="1" langID="0x409">
+      www.inpin.cn
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x804">
+      Copyright(c)2019:上海萌言文化创意有限公司（印品字库）
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x804">
+      ZZZ_id-ID
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x804">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x804">
+      印品鸿蒙体
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x804">
+      ZZZ_id-ID Regular
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x804">
+      Version 1.00;May 18, 2023;FontCreator 12.0.0.2563 64-bit
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x804">
+      ZZZ_id-ID-Regular
+    </namerecord>
+    <namerecord nameID="7" platformID="3" platEncID="1" langID="0x804">
+      Trademark of 印品字库（inpin font）
+    </namerecord>
+    <namerecord nameID="8" platformID="3" platEncID="1" langID="0x804">
+      上海萌言文化创意有限公司
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x804">
+      印品字库(www.inpin.cn)
+    </namerecord>
+    <namerecord nameID="11" platformID="3" platEncID="1" langID="0x804">
+      www.inpin.cn
+    </namerecord>
+  </name>
+
+</ttFont>

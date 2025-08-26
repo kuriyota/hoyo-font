@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="4.59">
+
+  <name>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      Font © Copyright 2022 Morisawa Inc. All rights reserved.
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      ZZZ_ja-JP
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Bold
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      MOT-Ro GSan Serif StdN B:Version 0.10
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      ZZZ_ja-JP Bold
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 0.10;December 13, 2023;FontCreator 12.0.0.2563 64-bit
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      ZZZ_ja-JP-Bold
+    </namerecord>
+    <namerecord nameID="7" platformID="3" platEncID="1" langID="0x409">
+      GSan Serif is a trademark of Morisawa Inc. G2サンセリフは、株式会社モリサワの商標です。
+    </namerecord>
+    <namerecord nameID="8" platformID="3" platEncID="1" langID="0x409">
+      Morisawa Inc. 株式会社モリサワ
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x409">
+      Motoaki Okuizumi 奥泉元晟
+    </namerecord>
+    <namerecord nameID="11" platformID="3" platEncID="1" langID="0x409">
+      http://www.morisawa.co.jp/
+    </namerecord>
+    <namerecord nameID="13" platformID="3" platEncID="1" langID="0x409">
+      MTS2205241000 COGNOSPHERE PTE. LTD.,
+    </namerecord>
+    <namerecord nameID="16" platformID="3" platEncID="1" langID="0x409">
+      ZZZ_ja-JP
+    </namerecord>
+    <namerecord nameID="17" platformID="3" platEncID="1" langID="0x409">
+      B
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x411">
+      ZZZ_ja-JP
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x411">
+      Bold
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x411">
+      ZZZ_ja-JP Bold
+    </namerecord>
+    <namerecord nameID="16" platformID="3" platEncID="1" langID="0x411">
+      ZZZ_ja-JP
+    </namerecord>
+    <namerecord nameID="17" platformID="3" platEncID="1" langID="0x411">
+      B
+    </namerecord>
+  </name>
+
+</ttFont>

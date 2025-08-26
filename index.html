@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HoYo-Font Font Preview</title>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
+    <style>
+      @import url('./GI_zh-CN/index.css');
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: 'GI_zh-CN', sans-serif;
+        background-color: #f5f7fa;
+        color: #333;
+        line-height: 1.6;
+      }
+
+      #app {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 15px;
+      }
+
+      .header {
+        text-align: center;
+        padding: 20px 0;
+        margin-bottom: 15px;
+      }
+
+      .header h1 {
+        font-size: 2rem;
+        color: #2c3e50;
+        margin-bottom: 8px;
+      }
+
+      .header p {
+        font-size: 1rem;
+        color: #7f8c8d;
+      }
+
+      .container {
+        margin-top: 15px;
+      }
+
+      .error-message {
+        background-color: #e74c3c;
+        color: white;
+        padding: 12px;
+        border-radius: 6px;
+        text-align: center;
+        margin: 15px 0;
+      }
+
+      .loading {
+        text-align: center;
+        padding: 30px;
+        font-size: 1rem;
+        color: #7f8c8d;
+      }
+
+      .card-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 20px;
+        padding: 8px;
+      }
+
+      .card {
+        background: white;
+        border-radius: 12px;
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.05);
+        padding: 20px;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        border-top: 3px solid #3498db;
+      }
+
+      .card:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+      }
+
+      .card.game-genshin {
+        border-top-color: #1abc9c;
+      }
+
+      .card.game-honkai3rd {
+        border-top-color: #e74c3c;
+      }
+
+      .card.game-starrail {
+        border-top-color: #9b59b6;
+      }
+
+      .card.game-zenless {
+        border-top-color: #f39c12;
+      }
+
+      .card-title {
+        font-size: 1.3rem;
+        margin-bottom: 15px;
+        color: #2c3e50;
+        padding-bottom: 8px;
+        border-bottom: 1px solid #eee;
+      }
+
+      .info-list {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+      }
+
+      .info-item {
+        display: flex;
+        flex-direction: column;
+      }
+
+      .info-label {
+        font-weight: 600;
+        color: #7f8c8d;
+        font-size: 0.8rem;
+        margin-bottom: 4px;
+      }
+
+      .info-value {
+        font-size: 0.9rem;
+        color: #2c3e50;
+      }
+
+      a {
+        color: #3498db;
+        text-decoration: none;
+        transition: color 0.2s;
+      }
+
+      a:hover {
+        color: #2980b9;
+        text-decoration: underline;
+      }
+
+      .preview-input {
+        width: 100%;
+        padding: 10px 12px;
+        border: 2px solid #e1e8ed;
+        border-radius: 6px;
+        font-size: 1rem;
+        transition: border-color 0.3s;
+        background-color: #f8f9fa;
+        resize: vertical;
+        min-height: 80px;
+      }
+
+      .preview-input:focus {
+        outline: none;
+        border-color: #3498db;
+        background-color: white;
+        box-shadow: 0 0 0 2px rgba(52, 152, 219, 0.2);
+      }
+
+      @media (max-width: 768px) {
+        .card-container {
+          grid-template-columns: 1fr;
+          padding: 5px;
+        }
+
+        #app {
+          padding: 12px;
+        }
+
+        .header h1 {
+          font-size: 1.7rem;
+        }
+
+        .card {
+          padding: 16px;
+        }
+      }
+
+      @media (max-width: 480px) {
+        .header {
+          padding: 15px 0;
+        }
+
+        .header h1 {
+          font-size: 1.5rem;
+        }
+
+        .card-title {
+          font-size: 1.1rem;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app">
+      <div class="header">
+        <h1>HoYo-Font</h1>
+        <h3>预览和下载米哈游游戏所使用的字体</h3>
+        <h3>Preview and download font in HoYo games</h3>
+        <p>由 Kuriyota 构建并分享，CSS 文件引用的字体文件转换 woff 并已分片</p>
+        <p>
+          Shared by Kuriyota, font files that css referenced has converted to
+          woff and split
+        </p>
+        <hr />
+        <p>
+          部分字体版权所有，不可商用。
+          <br />
+          (c) Copyright 2013-2022 Beijing Hanyi Innovation Technology Co.,Ltd
+          <br />
+          Copyright (C) 2011 Portal and Creative Inc.
+          <br />
+          (c) Copyright 2015-2022, Arphic Technology Co., Ltd. All rights
+          reserved.s
+        </p>
+      </div>
+
+      <div class="container" id="fontContainer">
+        <div v-if="loading" class="loading">Loading...</div>
+        <div v-else-if="error" class="error-message">{{ error }}</div>
+        <div v-else class="card-container">
+          <div
+            v-for="item in fontData"
+            :key="item.name"
+            class="card"
+            :class="'game-' + item.game">
+            <h3 class="card-title">{{ item.name }}</h3>
+            <div class="info-list">
+              <div class="info-item">
+                <span class="info-label">Language:</span>
+                <span class="info-value">{{ item.lang }}</span>
+              </div>
+              <div class="info-item">
+                <span class="info-label">CSS Webfonts:</span>
+                <span class="info-value">
+                  <a :href="item.css" target="_blank">{{ item.css }}</a>
+                </span>
+              </div>
+              <div class="info-item">
+                <span class="info-label">TTF Download:</span>
+                <span class="info-value">
+                  <a
+                    :href="item.ttf"
+                    :download="item.name + '.ttf'"
+                    target="_blank">
+                    {{ item.ttf }}
+                  </a>
+                </span>
+              </div>
+              <div class="info-item">
+                <span class="info-label">Preview:</span>
+                <span class="info-value">
+                  <textarea
+                    class="preview-input"
+                    rows="3"
+                    :data-css="item.css"
+                    :data-font="item.name"
+                    v-model="text"
+                    :style="getPreviewStyle(item)"
+                    placeholder="Enter text to preview font effect"></textarea>
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      const { createApp, ref, onMounted } = Vue;
+
+      createApp({
+        setup() {
+          const fontData = ref([]);
+          const loading = ref(true);
+          const error = ref(null);
+          const text = ref(
+            'Honkai World Diva!\n崩坏世界的歌姬\n崩壞世界の歌姫\nほうかいせかいのうたひめ'
+          );
+
+          const loadFontData = async () => {
+            try {
+              const response = await fetch('./meta.json');
+              if (!response.ok) {
+                throw new Error('Network response was not ok');
+              }
+              const data = await response.json();
+
+              // 为每个项目添加预览文本属性
+              fontData.value = data.map((item) => ({
+                ...item,
+                css: `./${item.name}/index.css`,
+                ttf: `./${item.name}/index.ttf`,
+                fontFamilyLoaded: false
+              }));
+              fontData.value.forEach((item) => {
+                updatePreview(item);
+              });
+
+              loading.value = false;
+            } catch (err) {
+              console.error('Error fetching meta.json:', err);
+              error.value = 'Error loading data, please check meta.json file.';
+              loading.value = false;
+            }
+          };
+
+          const updatePreview = (item) => {
+            // 动态加载CSS
+            if (!item.fontFamilyLoaded) {
+              const fontName = item.name.replace(/\s+/g, '-');
+              if (!document.querySelector(`#font-style-${fontName}`)) {
+                const link = document.createElement('link');
+                link.id = `font-style-${fontName}`;
+                link.rel = 'stylesheet';
+                link.href = `${item.css}`;
+                document.head.appendChild(link);
+              }
+              item.fontFamilyLoaded = true;
+            }
+          };
+
+          const getPreviewStyle = (item) => {
+            return {
+              'font-family': `'${item.name}', serif`
+            };
+          };
+
+          onMounted(() => {
+            loadFontData();
+          });
+
+          return {
+            fontData,
+            loading,
+            text,
+            error,
+            updatePreview,
+            getPreviewStyle
+          };
+        }
+      }).mount('#app');
+    </script>
+  </body>
+</html>
