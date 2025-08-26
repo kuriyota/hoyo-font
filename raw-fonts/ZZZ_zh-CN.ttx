@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.59">
+
+  <name>
+    <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      heitangboboqubing
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      ZZZ_zh-CN
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      yinpinhongmengti D40-v1.04:Version 1.00
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      ZZZ_zh-CN Regular
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Version 1.00 December 23, 2024, initial release
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      ZZZ_zh-CN-Regular
+    </namerecord>
+    <namerecord nameID="7" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      heitangboboqubing
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      heitangboboqubing
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      ZZZ_zh-CN
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      yinpinhongmengti D40-v1.04:Version 1.00
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      ZZZ_zh-CN Regular
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 1.00 December 23, 2024, initial release
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      ZZZ_zh-CN-Regular
+    </namerecord>
+    <namerecord nameID="7" platformID="3" platEncID="1" langID="0x409">
+      heitangboboqubing
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x804">
+      heitangboboqubing
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x804">
+      ZZZ_zh-CN
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x804">
+      &lt;字体子系未定义&gt;?????????????????????
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x804">
+      印品鸿蒙体 D40-v1.04
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x804">
+      ZZZ_zh-CN Regular
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x804">
+      Version 1.00 December 23, 2024, initial release
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x804">
+      ZZZ_zh-CN-Regular
+    </namerecord>
+    <namerecord nameID="16" platformID="3" platEncID="1" langID="0x804">
+      ZZZ_zh-CN
+    </namerecord>
+    <namerecord nameID="17" platformID="3" platEncID="1" langID="0x804">
+      Regular
+    </namerecord>
+  </name>
+
+</ttFont>

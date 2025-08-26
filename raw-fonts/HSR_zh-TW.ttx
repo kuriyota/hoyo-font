@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.59">
+
+  <name>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x404">
+      (c) Copyright 2015-2022, Arphic Technology Co., Ltd. All rights reserved.
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x404">
+      HSR_zh-TW
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x404">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x404">
+      Big5_AR2021;文鼎UD晶熙黑體E1HK_E
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x404">
+      HSR_zh-TW Regular
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x404">
+      Version 1.61;December 15, 2022;FontCreator 13.0.0.2613 64-bit
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x404">
+      HSR_zh-TW-Regular
+    </namerecord>
+    <namerecord nameID="7" platformID="3" platEncID="1" langID="0x404">
+      Arphic is a registered trademark of Arphic Technology Co., Ltd.
+    </namerecord>
+    <namerecord nameID="8" platformID="3" platEncID="1" langID="0x404">
+      Arphic Technology Co., Ltd.
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x404">
+      Arphic Font Design Team
+    </namerecord>
+    <namerecord nameID="10" platformID="3" platEncID="1" langID="0x404">
+      Big5HK2016_AR2021;2301-2021041201-R20220421
+    </namerecord>
+    <namerecord nameID="11" platformID="3" platEncID="1" langID="0x404">
+      http://www.arphic.com.tw
+    </namerecord>
+    <namerecord nameID="12" platformID="3" platEncID="1" langID="0x404">
+      http://www.arphic.com.tw
+    </namerecord>
+    <namerecord nameID="13" platformID="3" platEncID="1" langID="0x404">
+      You may use this font to display and print content as permitted by the license terms for the product in which this font is included.  You may use the font within the scope of the EULA or contract granted by Arphic.
+    </namerecord>
+    <namerecord nameID="16" platformID="3" platEncID="1" langID="0x404">
+      HSR_zh-TW
+    </namerecord>
+    <namerecord nameID="17" platformID="3" platEncID="1" langID="0x404">
+      Extra-bold
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      (c) Copyright 2015-2022, Arphic Technology Co., Ltd. All rights reserved.
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      HSR_zh-TW
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      AR UDJingXiHeiE1B5HK Extra-bold:Version 1.61
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      HSR_zh-TW Regular
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 1.61;December 15, 2022;FontCreator 13.0.0.2613 64-bit
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      HSR_zh-TW-Regular
+    </namerecord>
+    <namerecord nameID="7" platformID="3" platEncID="1" langID="0x409">
+      Arphic is a registered trademark of Arphic Technology Co., Ltd.
+    </namerecord>
+    <namerecord nameID="8" platformID="3" platEncID="1" langID="0x409">
+      Arphic Technology Co., Ltd.
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x409">
+      Arphic Font Design Team
+    </namerecord>
+    <namerecord nameID="10" platformID="3" platEncID="1" langID="0x409">
+      Big5HK2016_AR2021;2301-2021041201-R20220421
+    </namerecord>
+    <namerecord nameID="11" platformID="3" platEncID="1" langID="0x409">
+      http://www.arphic.com.tw
+    </namerecord>
+    <namerecord nameID="12" platformID="3" platEncID="1" langID="0x409">
+      http://www.arphic.com.tw
+    </namerecord>
+    <namerecord nameID="13" platformID="3" platEncID="1" langID="0x409">
+      You may use this font to display and print content as permitted by the license terms for the product in which this font is included.  You may use the font within the scope of the EULA or contract granted by Arphic.
+    </namerecord>
+    <namerecord nameID="16" platformID="3" platEncID="1" langID="0x409">
+      HSR_zh-TW
+    </namerecord>
+    <namerecord nameID="17" platformID="3" platEncID="1" langID="0x409">
+      Extra-bold
+    </namerecord>
+  </name>
+
+</ttFont>

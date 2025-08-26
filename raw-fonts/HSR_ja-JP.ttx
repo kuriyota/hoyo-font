@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.59">
+
+  <name>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      Copyright  (C) 2011 Portal and Creative Inc.
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      HSR_ja-JP
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      C4 Square D 04:Version 0.00
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      HSR_ja-JP Regular
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 0.00;June 20, 2023;FontCreator 13.0.0.2613 64-bit
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      HSR_ja-JP-Regular
+    </namerecord>
+    <namerecord nameID="7" platformID="3" platEncID="1" langID="0x409">
+      C4 Square D 04
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x411">
+      Copyright (C) 2011 Portal and Creative Inc.
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x411">
+      HSR_ja-JP
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x411">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x411">
+      C4 スクエア D 04
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x411">
+      HSR_ja-JP Regular
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x411">
+      Version 0.00;June 20, 2023;FontCreator 13.0.0.2613 64-bit
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x411">
+      HSR_ja-JP-Regular
+    </namerecord>
+    <namerecord nameID="7" platformID="3" platEncID="1" langID="0x411">
+      C4 スクエア D 04      
+    </namerecord>
+  </name>
+
+</ttFont>

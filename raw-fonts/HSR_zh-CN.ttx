@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.59">
+
+  <name>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      (c) Copyright 2013-2022 Beijing Hanyi Innovation Technology Co.,Ltd
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      HSR_zh-CN
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      HYQiHei 65J:Version 9.00
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      HSR_zh-CN Regular
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 9.00;February 21, 2023;FontCreator 13.0.0.2613 64-bit
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      HSR_zh-CN-Regular
+    </namerecord>
+    <namerecord nameID="7" platformID="3" platEncID="1" langID="0x409">
+      HYQiHei is a trademark of Beijing Hanyi Innovation Technology Co.,Ltd.
+    </namerecord>
+    <namerecord nameID="8" platformID="3" platEncID="1" langID="0x409">
+      Hanyi Fonts
+    </namerecord>
+    <namerecord nameID="11" platformID="3" platEncID="1" langID="0x409">
+      http://www.hanyi.com.cn/
+    </namerecord>
+    <namerecord nameID="13" platformID="3" platEncID="1" langID="0x409">
+      Please visit http://hanyi.com.cn/law.php for license information.
+    </namerecord>
+    <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
+      http://hanyi.com.cn/law.php
+    </namerecord>
+    <namerecord nameID="16" platformID="3" platEncID="1" langID="0x409">
+      HSR_zh-CN
+    </namerecord>
+    <namerecord nameID="17" platformID="3" platEncID="1" langID="0x409">
+      65J
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x804">
+      (c) 2013-2022 北京汉仪创新科技股份有限公司 版权所有
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x804">
+      HSR_zh-CN
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x804">
+      Regular
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x804">
+      HSR_zh-CN Regular
+    </namerecord>
+    <namerecord nameID="7" platformID="3" platEncID="1" langID="0x804">
+      汉仪旗黑是北京汉仪创新科技股份有限公司的商标。
+    </namerecord>
+    <namerecord nameID="8" platformID="3" platEncID="1" langID="0x804">
+      汉仪字库
+    </namerecord>
+    <namerecord nameID="11" platformID="3" platEncID="1" langID="0x804">
+      http://www.hanyi.com.cn/
+    </namerecord>
+    <namerecord nameID="13" platformID="3" platEncID="1" langID="0x804">
+      请访问http://hanyi.com.cn/law.php了解授权协议。
+    </namerecord>
+    <namerecord nameID="14" platformID="3" platEncID="1" langID="0x804">
+      http://hanyi.com.cn/law.php
+    </namerecord>
+    <namerecord nameID="16" platformID="3" platEncID="1" langID="0x804">
+      HSR_zh-CN
+    </namerecord>
+    <namerecord nameID="17" platformID="3" platEncID="1" langID="0x804">
+      65简
+    </namerecord>
+  </name>
+
+</ttFont>

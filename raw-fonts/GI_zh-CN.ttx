@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.59">
+
+  <name>
+    <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      (c) Copyright Beijing HANYI KEYIN Information Technology Co.
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      GI_zh-CN
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Heavy
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Default_SC 85W:Version 1.00
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      GI_zh-CN Heavy
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Version 1.00;January 7, 2025;FontCreator 11.0.0.2407 32-bit
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      GI_zh-CN-Heavy
+    </namerecord>
+    <namerecord nameID="7" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Trademark of HANYI
+    </namerecord>
+    <namerecord nameID="16" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      GI_zh-CN
+    </namerecord>
+    <namerecord nameID="17" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      85W
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      (c) Copyright Beijing HANYI KEYIN Information Technology Co.
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      GI_zh-CN
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Heavy
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      Default_SC 85W:Version 1.00
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      GI_zh-CN Heavy
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 1.00;January 7, 2025;FontCreator 11.0.0.2407 32-bit
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      GI_zh-CN-Heavy
+    </namerecord>
+    <namerecord nameID="7" platformID="3" platEncID="1" langID="0x409">
+      Trademark of HANYI
+    </namerecord>
+    <namerecord nameID="16" platformID="3" platEncID="1" langID="0x409">
+      GI_zh-CN
+    </namerecord>
+    <namerecord nameID="17" platformID="3" platEncID="1" langID="0x409">
+      85W
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x804">
+      (c) Copyright Beijing HANYI KEYIN Information Technology Co.
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x804">
+      GI_zh-CN
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x804">
+      Heavy
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x804">
+      Default_SC 85W:Version 1.00
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x804">
+      GI_zh-CN Heavy
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x804">
+      Version 1.00;January 7, 2025;FontCreator 11.0.0.2407 32-bit
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x804">
+      GI_zh-CN-Heavy
+    </namerecord>
+    <namerecord nameID="7" platformID="3" platEncID="1" langID="0x804">
+      Trademark of HANYI
+    </namerecord>
+    <namerecord nameID="16" platformID="3" platEncID="1" langID="0x804">
+      GI_zh-CN
+    </namerecord>
+    <namerecord nameID="17" platformID="3" platEncID="1" langID="0x804">
+      85W
+    </namerecord>
+  </name>
+
+</ttFont>
